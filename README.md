@@ -1,2 +1,6 @@
 # mi-primer-repo
-es para clase 
+# Mi primer repositorio  
+ 
+
+Este es mi primer proyecto con Git y GitHub.
+
